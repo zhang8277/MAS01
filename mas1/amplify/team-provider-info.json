@@ -1,0 +1,20 @@
+{
+  "native": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mas1-native-205844-authRole",
+      "UnauthRoleArn": "arn:aws:iam::450330358741:role/amplify-mas1-native-205844-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::450330358741:role/amplify-mas1-native-205844-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-mas1-native-205844-deployment",
+      "UnauthRoleName": "amplify-mas1-native-205844-unauthRole",
+      "StackName": "amplify-mas1-native-205844",
+      "StackId": "arn:aws:cloudformation:us-east-2:450330358741:stack/amplify-mas1-native-205844/4af5ada0-ebee-11ea-bbef-02d73f43bc02",
+      "AmplifyAppId": "d18chsaw1nfrlx"
+    },
+    "categories": {
+      "auth": {
+        "mas1bc529c0c": {}
+      }
+    }
+  }
+}
